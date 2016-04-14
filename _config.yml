@@ -1,0 +1,28 @@
+name: Little Bit of Wonderful
+favicon: null
+layout_spectrum: 0.8830188980791718
+typography_spectrum: 0.9607929866760969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.19489075243473053
+  lightness: 0.04545799898914993
+  saturation: 0.6240937814582139
+  rhythmicContrast: 0.2555457360576838
+purpose: []
